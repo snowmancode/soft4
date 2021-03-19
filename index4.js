@@ -26,3 +26,4 @@ else
     console.log("Greetings");
 
 console.log("loops are fun");
+console.log("learning JS is fun");
