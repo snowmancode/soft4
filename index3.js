@@ -11,3 +11,6 @@ const villian = {
 
 for (let key in villian)
     console.log(key);
+
+for (let key in villian)
+    console.log(key, villian[key]);
