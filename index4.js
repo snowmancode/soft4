@@ -15,3 +15,12 @@ while (p <= 5) {
 for (let k = 1; k <= 5; k++) {
     if (k % 2 !== 0) console.log(k);
 }
+
+let hour = 15;
+
+if (hour >=6 && hour < 12)
+    console.log("Good Morning");
+else if (hour >= 12 && hour < 18)
+    console.log("Good Morning");
+else
+    console.log("Greetings");
