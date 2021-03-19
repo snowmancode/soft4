@@ -24,3 +24,5 @@ else if (hour >= 12 && hour < 18)
     console.log("Good Morning");
 else
     console.log("Greetings");
+
+console.log("loops are fun");
