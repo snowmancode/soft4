@@ -9,3 +9,9 @@ theAnswer = number1 + number2;
 addTwoNumbers(2,3);
 
 console.log(addTwoNumbers);
+
+function foo() {
+
+}
+
+foo();
