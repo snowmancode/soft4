@@ -17,3 +17,4 @@ function foo() {
 foo();
 foo();
 foo();
+foo();
