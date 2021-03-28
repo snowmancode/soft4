@@ -30,4 +30,6 @@ foo();
 foo();
 foo();
 
+console.log("Getting rid of this script, soon.");
+
 
