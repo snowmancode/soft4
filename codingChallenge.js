@@ -34,6 +34,7 @@ console.log("Getting rid of this script, soon.");
 foo();
 foo();
 foo();
+foo();
 
 
 
