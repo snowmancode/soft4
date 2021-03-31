@@ -39,6 +39,7 @@ drake();
 drake();
 drake();
 foo();
+foo();
 
 
 
