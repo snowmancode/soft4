@@ -37,6 +37,7 @@ foo();
 foo();
 drake();
 drake();
+drake();
 foo();
 
 
