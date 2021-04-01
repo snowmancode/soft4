@@ -40,6 +40,9 @@ drake();
 drake();
 foo();
 foo();
+foo();
+luke();
+
 
 
 
