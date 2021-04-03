@@ -45,6 +45,8 @@ luke();
 luke();
 vader();
 vader(); 
+foo_move();
+
 
 
 
