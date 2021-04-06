@@ -55,7 +55,7 @@ console.log("Good");
 console.log("Excellent");
 console.log("Interesting...");
 luke();
-
+luke();
 
 
 
