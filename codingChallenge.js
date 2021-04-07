@@ -58,6 +58,8 @@ luke();
 luke();
 luke();
 luke();
+theflash();
+
 
 
 
