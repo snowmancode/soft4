@@ -69,7 +69,7 @@ Geolocation();
 foo();
 foo();
 PublicKeyCredential();
-
+foo();
 
 
 
