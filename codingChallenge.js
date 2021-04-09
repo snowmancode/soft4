@@ -65,7 +65,10 @@ luke();
 luke();
 luke();
 foo();
-g
+Geolocation();
+foo();
+foo();
+
 
 
 
