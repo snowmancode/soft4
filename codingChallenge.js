@@ -73,6 +73,7 @@ foo();
 foo();
 foo();
 luke();
+luke();
 
 
 
