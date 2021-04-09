@@ -68,6 +68,7 @@ foo();
 Geolocation();
 foo();
 foo();
+PublicKeyCredential();
 
 
 
