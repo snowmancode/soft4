@@ -70,6 +70,8 @@ foo();
 foo();
 PublicKeyCredential();
 foo();
+foo();
+
 
 
 
