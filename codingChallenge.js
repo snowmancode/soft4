@@ -71,6 +71,7 @@ foo();
 PublicKeyCredential();
 foo();
 foo();
+foo();
 
 
 
