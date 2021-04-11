@@ -84,6 +84,8 @@ toMove();
 toMove();
 toMove();
 toMove();
+luke();
+console.log("Hello");
 
 
 
