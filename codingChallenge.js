@@ -86,6 +86,7 @@ toMove();
 toMove();
 luke();
 console.log("Hello");
+console.log("Hi");
 
 
 
