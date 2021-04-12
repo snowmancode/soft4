@@ -90,6 +90,7 @@ console.log("Hi");
 foo();
 foo();
 foo();
+foo();
 
 
 
